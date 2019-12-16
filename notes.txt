@@ -1,0 +1,10 @@
+Measurements:
+
+	Canadian quarter: 23.81mm diameter
+
+	SG90 servo:
+		Length: 22.7mm at bottom, 22.5mm at top
+		Width: 12.2mm
+		Height up to tabs: 15.5mm
+		Tabs: 2.4mm thick
+		Axle: 4.8mm
