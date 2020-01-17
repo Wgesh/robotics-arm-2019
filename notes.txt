@@ -1,3 +1,7 @@
+Random Notes:
+	
+	- Use the arm that comes with the SG90 servos as a connection point for the robot or model and print my own piece that fits onto the motor
+
 Measurements:
 
 	Canadian quarter: 23.81mm diameter
